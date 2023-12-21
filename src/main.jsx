@@ -6,6 +6,7 @@ import './index.css'
 import ErrorPage from './error-page';
 import Contact from './routes/contact';
 
+
 const router = createBrowserRouter([
   {
     path: '/',
